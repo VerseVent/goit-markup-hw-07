@@ -1,0 +1,15 @@
+@import "../utils/mixins";
+
+.header {
+    border-bottom: 1px solid #ECECEC;
+
+    .header__container{
+        @include flex(space-between, unset, row);
+    }
+
+    .header__navigation {
+        @include flex();
+    }
+
+}
+

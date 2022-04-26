@@ -1,0 +1,25 @@
+.logo {
+    display: flex;
+    padding-top: 24px;
+    padding-right: 93px;
+    padding-bottom: 24px;
+    
+
+    font-family: 'Raleway';
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.15;
+    
+    .logo__link {
+        color: $main-text-color;
+        text-decoration: $text-decoration-type;
+    }
+
+    .logo__part {
+        color: $aditional-color;
+    }
+    .logo__link--white-theme{
+        color: $secondary-text-color;
+    }
+}
+
