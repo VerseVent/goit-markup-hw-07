@@ -43,7 +43,7 @@
         text-decoration: $text-decoration-type;
     }
 
-    &:hover .portfolio-overlay-content {
+    &:hover .portfolio__overlay-content {
         transform: translateY(0%);
     }
 
@@ -57,7 +57,7 @@
             0 1px 1px 0 rgba(0, 0, 0, 0.12);
     }
 }
-.portfolio-figure {
+.portfolio__figure {
     overflow: hidden;
     .portfolio__overlay-container {
         position: relative;
