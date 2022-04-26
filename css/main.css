@@ -1375,7 +1375,7 @@ ol[class] {
   padding: 0;
 }
 
-.portfolio__figure .portfolio__overlay-container .portfolio__overlay-content {
+.portfolio__figure .portfolio__overlay-content {
   position: absolute;
   top: 0;
   padding: 63px 24px;
